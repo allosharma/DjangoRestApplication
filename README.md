@@ -1,2 +1,2 @@
 # DjangoRestApplication
-It has post, update, delete, put feature
+It has post, update, delete, and put feature for Django API.
